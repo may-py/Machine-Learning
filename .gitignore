@@ -103,8 +103,7 @@ celerybeat.pid
 
 # Environments
 .artifacts
-artifacts/*
-notebook/jupyter/
+artifacts/
 .env
 .venv
 env/
