@@ -104,8 +104,6 @@ celerybeat.pid
 # Environments
 .artifacts
 artifacts/
-.artifact
-artifact/
 notebook/jupyter/
 .env
 .venv
